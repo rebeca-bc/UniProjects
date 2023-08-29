@@ -2,7 +2,7 @@
 Projects I've made during my first year in university all programmed in C++. 
 The goal of this projects was to understand and put to practice data structures and algorithms.
 
-#Content
+# Content
 * Project 1: Log Sorting
   * binary search
   * merge and quick sort algorithms
