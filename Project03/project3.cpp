@@ -1,5 +1,3 @@
-H//Rebeca Borrego 542497 declaro haber realizaod esta actividad con integridad académica
-
 #include <iostream>
 #include <fstream>
 #include <string>
