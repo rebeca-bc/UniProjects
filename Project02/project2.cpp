@@ -1,5 +1,3 @@
-//Rebeca Borrego Cavazos 542497 
-//Declaro haber realizado esta actividad con integridad académica
 #include <iostream>
 #include <fstream>
 #include <string>
